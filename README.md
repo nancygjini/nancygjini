@@ -10,6 +10,6 @@ I have uploaded the code for my Bachelor's Thesis on multivariate GARCH models, 
 
 ## Skills
 - **R**: Expert in statistical analysis, data manipulation, and creating insightful visualizations. Comfortable with advanced statistical modeling and working with large datasets.
-- **MATLAB**: Proficient in implementing algorithms and performing complex mathematical computations. Used for numerical analysis and problem-solving across various domains.
+- **MATLAB**: Proficient in implementing algorithms and performing complex mathematical computations. Used for numerical analysis of differential equations and optimization problems in operations research.
 - **SQL**: Experienced in querying and managing databases, extracting and manipulating data for analysis and reporting.
-- **Python**: Skilled in data analysis and machine learning, with a focus on applying computational methods to real-world problems. Experienced with libraries like NumPy, Pandas, and scikit-learn for efficient data processing and model building.
+- **Python**: Skilled in data analysis and machine learning, with a focus on quantitative marketing. Experienced with libraries like NumPy, Pandas, and scikit-learn for efficient data processing and model building.
