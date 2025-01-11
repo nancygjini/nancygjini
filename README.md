@@ -6,7 +6,7 @@ I am currently pursuing a pre-master's in Applied Mathematics at TU Delft during
 My academic background includes a Bachelor of Science in Econometrics and Operations Research and another in Economic and Business Economics, both from Erasmus University Rotterdam. During my undergraduate studies, I focused on courses including Advanced Econometrics, Time Series Analysis, Markov Processes, and Simulation, which laid the foundation for my interest in data science and applied mathematics.
 
 ## Projects
-I have uploaded the code for my Bachelor's Thesis on multivariate GARCH models, which can be found here: [BSc Thesis](https://github.com/nancygjini/BSc-Thesis)
+I have uploaded the code for my Bachelor's Thesis on residual-based diagnostic tests for multivariate GARCH models, which can be found here: [BSc Thesis](https://github.com/nancygjini/BSc-Thesis)
 
 ## Skills
 - **R**: Expert in statistical analysis, data manipulation, and creating insightful visualizations. Comfortable with advanced statistical modeling and working with large datasets.
