@@ -3,7 +3,7 @@
 ## About Me
 I am currently pursuing a pre-master's in Applied Mathematics at TU Delft during my full-time role as a reporting analyst in risk management, in preparation for a Master's in either (bio)statistics or applied mathematics.
 
-My academic background includes a Bachelor of Science in Econometrics and Operations Research and another in Economic and Business Economics, both from Erasmus University Rotterdam. During my undergraduate studies, I focused on courses including Advanced Econometrics, Time Series Analysis, Markov Processes, and Simulation, which laid the foundation for my interest in data science and applied mathematics.
+My academic background includes a BSc in Econometrics and Operations Research and a BSc in Economics and Business Economics from Erasmus University Rotterdam. During my undergraduate studies, I focused on courses including Advanced Econometrics, Time Series Analysis, Markov Processes, and Simulation, which laid the foundation for my interest in data science and applied mathematics.
 
 ## Projects
 I have uploaded the code for my Bachelor's Thesis on residual-based diagnostic tests for multivariate GARCH models, which can be found here: [BSc Thesis](https://github.com/nancygjini/BSc-Thesis)
