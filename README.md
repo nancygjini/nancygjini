@@ -1,7 +1,7 @@
 # Nancy Gjini
 
 ## About Me
-I am currently pursuing a pre-master's in Applied Mathematics at TU Delft during my full-time role as a reporting analyst in risk management, in preparation for a Master's in either (bio)statistics or applied mathematics.
+I am currently pursuing a Master's in Applied Mathematics at TU Delft. I have two years of experience as a Reporting Analyst within the risk management domain.
 
 My academic background includes a BSc in Econometrics and Operations Research and a BSc in Economics and Business Economics from Erasmus University Rotterdam. During my undergraduate studies, I focused on courses including Advanced Econometrics, Time Series Analysis, Markov Processes, and Simulation, which laid the foundation for my interest in data science and applied mathematics.
 
