@@ -1,7 +1,7 @@
 # Nancy Gjini
 
 ## About Me
-I am currently pursuing a Master's in Applied Mathematics at TU Delft, where I specialize in Stochastics. I have over three years of experience as a Data Analyst within the risk management domain.
+I am currently pursuing a Master's in Applied Mathematics at TU Delft, where I specialize in Stochastics. I have over three years of experience as a data analyst within the risk management domain.
 
 My academic background includes a BSc in Econometrics and Operations Research and a BSc in Economics and Business Economics from Erasmus University Rotterdam. During my undergraduate studies, I focused on courses including Advanced Econometrics, Time Series Analysis, Markov Processes, and Simulation, which laid the foundation for my interest in data science and applied mathematics.
 
@@ -10,6 +10,6 @@ I have uploaded the code for my Bachelor's Thesis on residual-based diagnostic t
 
 ## Skills
 - **R**: Expert in statistical analysis, data manipulation, and creating insightful visualizations. Comfortable with advanced statistical modeling and working with large datasets.
+-  **Python**: Skilled in data analysis and machine learning. Experienced with libraries like NumPy, Pandas, and scikit-learn for efficient data processing and model building.
 - **MATLAB**: Proficient in implementing algorithms and performing complex mathematical computations. Used for numerical analysis of differential equations and optimization problems in operations research.
 - **SQL**: Experienced in querying and managing databases, extracting and manipulating data for analysis and reporting.
-- **Python**: Skilled in data analysis and machine learning, with a focus on quantitative marketing. Experienced with libraries like NumPy, Pandas, and scikit-learn for efficient data processing and model building.
